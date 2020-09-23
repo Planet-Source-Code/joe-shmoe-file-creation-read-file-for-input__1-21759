@@ -1,0 +1,10 @@
+Instructions on how the program works.
+
+1. Run the program
+2. Enter information into ALL of the fields
+3. Click "Write to file"
+4. Click "Read file"
+5. Click Close
+6. Review code so that you have an understading on how file
+   opening, closing, writing, and reading works
+7. Enjoy 
